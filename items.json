@@ -1,0 +1,110 @@
+[
+  {
+    "n": 1,
+    "brand": "CIAOPANIC",
+    "name": "モンスター柄プリントロンT",
+    "cat": "Tシャツ",
+    "color": "チャコールグレー",
+    "size": "未確認",
+    "sku": "未確認",
+    "features": "プリント入り、長袖、クルーネック",
+    "status": "未特定",
+    "img": "assets/item-001.jpg"
+  },
+  {
+    "n": 2,
+    "brand": "ZARA",
+    "name": "STRIPED RELAXED FIT SWEATER",
+    "cat": "ニット",
+    "color": "グレージュ × ダークグレー",
+    "size": "M",
+    "sku": "9598/321/700",
+    "features": "細ボーダー、クルーネック",
+    "status": "品番確認済み",
+    "img": "assets/item-002.jpg"
+  },
+  {
+    "n": 3,
+    "brand": "Provolone",
+    "name": "チャコール×ブラウン ボーダーニット",
+    "cat": "ニット",
+    "color": "チャコール × ブラウン",
+    "size": "未確認",
+    "sku": "未確認",
+    "features": "再生ポリエステル50%、ポリエステル30%、ナイロン20%",
+    "status": "未特定",
+    "img": "assets/item-003.jpg"
+  },
+  {
+    "n": 4,
+    "brand": "ZARA",
+    "name": "細チェック柄フラップポケットシャツ",
+    "cat": "シャツ",
+    "color": "グレー × ネイビー",
+    "size": "未確認",
+    "sku": "未確認",
+    "features": "長袖、両胸フラップポケット",
+    "status": "未特定",
+    "img": "assets/item-004.jpg"
+  },
+  {
+    "n": 5,
+    "brand": "JOURNAL STANDARD relume",
+    "name": "ブルーグレーチェックシャツ",
+    "cat": "シャツ",
+    "color": "ブルーグレー × ホワイト",
+    "size": "未確認",
+    "sku": "未確認",
+    "features": "ぼかしチェック、両胸パッチポケット",
+    "status": "未特定",
+    "img": "assets/item-005.jpg"
+  },
+  {
+    "n": 6,
+    "brand": "niko and ... JEANS",
+    "name": "トグル留めデニム調ジャケット",
+    "cat": "アウター",
+    "color": "ウォッシュドブラック",
+    "size": "M",
+    "sku": "未確認",
+    "features": "スタンドカラー、金属トグル留め",
+    "status": "未特定",
+    "img": "assets/item-006.jpg"
+  },
+  {
+    "n": 7,
+    "brand": "niko and ...",
+    "name": "ミックスチェックダブルジャケット",
+    "cat": "アウター",
+    "color": "ブラウン × グレー × ブルー",
+    "size": "L",
+    "sku": "未確認",
+    "features": "ダブルブレスト、ラペルに缶バッジ",
+    "status": "未特定",
+    "img": "assets/item-007.jpg"
+  },
+  {
+    "n": 8,
+    "brand": "BEAMS HEART",
+    "name": "ボア襟レザー調ジャケット",
+    "cat": "アウター",
+    "color": "ブラウン × グレー",
+    "size": "M",
+    "sku": "未確認",
+    "features": "ボア襟、フロントジップ、レザー調",
+    "status": "未特定",
+    "img": "assets/item-008.jpg"
+  },
+  {
+    "n": 9,
+    "brand": "niko and ...",
+    "name": "凹凸チェックプルオーバーシャツ",
+    "cat": "シャツ",
+    "color": "ブルーグレー × ベージュ",
+    "size": "未確認",
+    "sku": "未確認",
+    "features": "サッカー調生地、ハーフボタン、両胸フラップポケット",
+    "status": "未特定",
+    "img": "assets/item-009.jpg"
+  }
+]
