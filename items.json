@@ -9,7 +9,7 @@
     "sku": "未確認",
     "features": "プリント入り、長袖、クルーネック",
     "status": "未特定",
-    "img": "assets/item-001.jpg"
+    "img": "assets/item-001-full.jpg"
   },
   {
     "n": 2,
@@ -21,7 +21,7 @@
     "sku": "9598/321/700",
     "features": "細ボーダー、クルーネック",
     "status": "品番確認済み",
-    "img": "assets/item-002.jpg"
+    "img": "assets/item-002-full.jpg"
   },
   {
     "n": 3,
@@ -33,7 +33,7 @@
     "sku": "未確認",
     "features": "再生ポリエステル50%、ポリエステル30%、ナイロン20%",
     "status": "未特定",
-    "img": "assets/item-003.jpg"
+    "img": "assets/item-003-full.jpg"
   },
   {
     "n": 4,
@@ -45,7 +45,7 @@
     "sku": "未確認",
     "features": "長袖、両胸フラップポケット",
     "status": "未特定",
-    "img": "assets/item-004.jpg"
+    "img": "assets/item-004-full.jpg"
   },
   {
     "n": 5,
@@ -57,7 +57,7 @@
     "sku": "未確認",
     "features": "ぼかしチェック、両胸パッチポケット",
     "status": "未特定",
-    "img": "assets/item-005.jpg"
+    "img": "assets/item-005-full.jpg"
   },
   {
     "n": 6,
@@ -69,7 +69,7 @@
     "sku": "未確認",
     "features": "スタンドカラー、金属トグル留め",
     "status": "未特定",
-    "img": "assets/item-006.jpg"
+    "img": "assets/item-006-full.jpg"
   },
   {
     "n": 7,
@@ -81,7 +81,7 @@
     "sku": "未確認",
     "features": "ダブルブレスト、ラペルに缶バッジ",
     "status": "未特定",
-    "img": "assets/item-007.jpg"
+    "img": "assets/item-007-full.jpg"
   },
   {
     "n": 8,
@@ -93,7 +93,7 @@
     "sku": "未確認",
     "features": "ボア襟、フロントジップ、レザー調",
     "status": "未特定",
-    "img": "assets/item-008.jpg"
+    "img": "assets/item-008-full.jpg"
   },
   {
     "n": 9,
@@ -105,6 +105,6 @@
     "sku": "未確認",
     "features": "サッカー調生地、ハーフボタン、両胸フラップポケット",
     "status": "未特定",
-    "img": "assets/item-009.jpg"
+    "img": "assets/item-009-full.jpg"
   }
 ]
